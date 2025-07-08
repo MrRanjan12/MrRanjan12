@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranjan kumar
 
-<!--
-**MrRanjan12/MrRanjan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Developer | Innovator | Future Scientist
 
-Here are some ideas to get you started:
+I'm a passionate tech enthusiast who loves solving real-life problems through code and creativity. With a background in **Computer Applications (BCA)**, I’m on a mission to build meaningful software and scientific tools that positively impact the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Tech Stack & Tools:
+- **Languages**: JavaScript, Python, C++, C, HTML5, CSS3  
+- **Frameworks/Libraries**: React.js, Bootstrap, jQuery  
+- **Backend & Tools**: Node.js, Express.js, Puppeteer, Cheerio, Postman  
+- **Others**: Git & GitHub, Visual Studio Code, Chrome DevTools, Canva
+
+### 🌱 Currently Learning:
+- **Advanced Python** for Data Science & Machine Learning  
+- **Math & Logic** for Scientific Research  
+- **AI-Powered Apps** with voice translation, real-time interaction, and computer vision
+
+### 🛠 Projects I'm Building:
+- 🔭 A Panchang Calendar app (with web scraping backend)
+- 🎥 A Zoom-like video call app with real-time translation and AI features
+
+### 🎯 Goals:
+- Become a leading software developer and researcher  
+- Innovate to make science accessible and useful for all  
+
+### 📜 Certifications:
+- JavaScript (Basic) – HackerRank  
+- Web Development – OctaNet Internship  
+- C++, C, and JavaScript – SoloLearn  
+- Responsive Web Design – freeCodeCamp  
+
+### 📫 Let’s connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/ranjan-kumar-prajapati/) 
+- 🌐 [Portfolio](https://mrranjan12.github.io/MyPortfolio/) 
+- 📨 Reach me via [Email](mailto:ranjankumar4447758@gmail.com)
+
+---
+
+> "Code is my canvas. Science is my compass. Together, I build for a better tomorrow."
