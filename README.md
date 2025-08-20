@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ranjan kumar
 
-### 🚀 Aspiring Software Developer | Innovator | Future Scientist
+### 🚀Software Developer | Innovator | Future Scientist
 
 I'm a passionate tech enthusiast who loves solving real-life problems through code and creativity. With a background in **Computer Applications (BCA)**, I’m on a mission to build meaningful software and scientific tools that positively impact the world.
 
@@ -18,6 +18,7 @@ I'm a passionate tech enthusiast who loves solving real-life problems through co
 ### 🛠 Projects I'm Building:
 - 🔭 A Panchang Calendar app (with web scraping backend)
 - 🎥 A Zoom-like video call app with real-time translation and AI features
+- 🤖 Build real AI agent and Social Media manager Bots
 
 ### 🎯 Goals:
 - Become a leading software developer and researcher  
