@@ -16,7 +16,7 @@ I'm a passionate tech enthusiast who loves solving real-life problems through co
 - **AI-Powered Apps** with voice translation, real-time interaction, and computer vision
 
 ### 🛠 Projects I'm Building:
-- 🔭 A Panchang Calendar app (with web scraping backend)
+- 🔭 A Telegram-bot and chatbot-web with using  Llm powered model . 
 - 🎥 A Zoom-like video call app with real-time translation and AI features
 - 🤖 Build real AI agent and Social Media manager Bots
 
@@ -25,6 +25,7 @@ I'm a passionate tech enthusiast who loves solving real-life problems through co
 - Innovate to make science accessible and useful for all  
 
 ### 📜 Certifications:
+- Python Intermediate - SoloLearn
 - JavaScript (Basic) – HackerRank  
 - Web Development – OctaNet Internship  
 - C++, C, and JavaScript – SoloLearn  
