@@ -1,41 +1,51 @@
-# 👋 Hi, I'm Ranjan kumar
+# Ranjan Kumar
 
-### 🚀Software Developer | Innovator | Future Scientist
+Systems • Backend • Automation • Exploring Intelligence
 
-I'm a passionate tech enthusiast who loves solving real-life problems through code and creativity. With a background in **Computer Applications (BCA)**, I’m on a mission to build meaningful software and scientific tools that positively impact the world.
+I am interested in understanding how systems behave — not just writing code, but designing logic that scales, adapts, and solves real problems.
 
-### 👨‍💻 Tech Stack & Tools:
-- **Languages**: JavaScript, Python, C++, C, HTML5, CSS3  
-- **Frameworks/Libraries**: React.js, Bootstrap, jQuery  
-- **Backend & Tools**: Node.js, Express.js, Puppeteer, Cheerio, Postman  
-- **Others**: Git & GitHub, Visual Studio Code, Chrome DevTools, Canva
+My work is centered around backend development, automation, and structured application design. I prefer learning through implementation, using projects to explore system design, constraints, and trade-offs.
 
-### 🌱 Currently Learning:
-- **Advanced Python** for Data Science & Machine Learning  
-- **Math & Logic** for Scientific Research  
-- **AI-Powered Apps** with voice translation, real-time interaction, and computer vision
-
-### 🛠 Projects I'm Building:
-- 🔭 A Telegram-bot and chatbot-web with using  Llm powered model . 
-- 🎥 A Zoom-like video call app with real-time translation and AI features
-- 🤖 Build real AI agent and Social Media manager Bots
-
-### 🎯 Goals:
-- Become a leading software developer and researcher  
-- Innovate to make science accessible and useful for all  
-
-### 📜 Certifications:
-- Python Intermediate - SoloLearn
-- JavaScript (Basic) – HackerRank  
-- Web Development – OctaNet Internship  
-- C++, C, and JavaScript – SoloLearn  
-- Responsive Web Design – freeCodeCamp  
-
-### 📫 Let’s connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/ranjan-kumar-prajapati/) 
-- 🌐 [Portfolio](https://mrranjan12.github.io/MyPortfolio/) 
-- 📨 Reach me via [Email](mailto:ranjankumar4447758@gmail.com)
+Currently exploring Python in greater depth, along with the underlying ideas behind AI/ML — focusing on understanding rather than usage.
 
 ---
 
-> "Code is my canvas. Science is my compass. Together, I build for a better tomorrow."
+Stack
+
+Languages: Python, JavaScript, C++, C  
+Frontend: React.js, HTML5, CSS3  
+Backend: Node.js, Express.js  
+Tools: Git, Postman, Puppeteer, Cheerio  
+
+---
+
+Current Focus
+
+- Backend systems and automation  
+- Data structures and algorithmic thinking  
+- Foundations of machine learning and system-level design  
+
+---
+
+Selected Work
+
+- Built full-stack applications with structured backend logic and API design  
+- Developed automation workflows and bot-based systems  
+- Exploring AI-integrated and real-time systems  
+
+---
+
+Direction
+
+Building depth in system design, backend engineering, and intelligent systems.
+
+---
+
+Contact
+
+LinkedIn: https://www.linkedin.com/in/ranjan-kumar-prajapati/  
+Portfolio: https://mrranjan12.github.io/MyPortfolio/  
+
+---
+
+Working quietly. Building deliberately.
