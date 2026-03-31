@@ -44,7 +44,7 @@ Building depth in system design, backend engineering, and intelligent systems.
 Contact
 
 LinkedIn: https://www.linkedin.com/in/ranjan-kumar-prajapati/  
-Portfolio: https://mrranjan12.github.io/MyPortfolio/  
+Portfolio: https://ranjanlab.netlify.app/# 
 
 ---
 
