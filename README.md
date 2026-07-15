@@ -122,7 +122,7 @@ I'm building depth — not breadth for its own sake — in **system design**, **
 
 Want the full picture — experience, projects, and technical depth in one place?
 
-[![Resume](https://drive.google.com/file/d/1_vORFcu45nlLn860LITC98PQ0uhJH0Bl/view)](#)
+[![Resume](https://drive.google.com/file/d/1_vORFcu45nlLn860LITC98PQ0uhJH0Bl/view)](https://drive.google.com/file/d/1_vORFcu45nlLn860LITC98PQ0uhJH0Bl/view)
 
 
 
