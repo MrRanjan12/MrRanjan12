@@ -108,7 +108,7 @@ Multiple end-to-end applications combining React front-ends with cleanly archite
 
 `React.js` `Node.js` `Express.js` `REST APIs`
 
-*(Add repo links here as you publish them — this section is built to scale with you.)*
+
 
 ---
 
@@ -122,9 +122,9 @@ I'm building depth — not breadth for its own sake — in **system design**, **
 
 Want the full picture — experience, projects, and technical depth in one place?
 
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+[![Resume](https://drive.google.com/file/d/1WyeIPhqm4tL_nv0h-zdw_Nb1rRsm-flw/view?usp=drive_link)](#)
 
-*(Link your hosted resume PDF here — Google Drive, GitHub raw link, or your portfolio site.)*
+
 
 ---
 
